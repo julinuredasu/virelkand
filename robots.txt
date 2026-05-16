@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://julinuredasu.github.io/virelkand/sitemap.xml
